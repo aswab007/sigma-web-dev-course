@@ -1,0 +1,22 @@
+.oilll{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    width: 20vw;
+    background-color: blanchedalmond;
+   /* transform: rotate(0.15turn);*/
+    /*transform: skew(0.08turn);*/
+    /*transform: scaleY(1.1);*/
+    /*transform: scaleX(1.1);*/
+    /*transform: rotateZ(44deg);*/
+   /* transform: translate(20%);*/
+   /*transform: translateX(30%);*/
+    /*transform-origin: 0%;
+    transform: rotate(3deg);*/
+    /*transform: matrix(0,1,1,1,1,0);*/
+    
+
+
+}

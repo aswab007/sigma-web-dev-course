@@ -1,0 +1,23 @@
+
+div:nth-child(2){
+    background-color: aqua;
+}
+
+.b3{
+    background-color: aquamarine;
+}
+
+.b1{
+    background-color: aqua; 
+    border: 2px solid black;
+    
+}                         
+
+img{
+    float: left;
+}
+
+.b2{
+    clear: left;
+}
+

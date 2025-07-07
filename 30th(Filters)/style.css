@@ -1,0 +1,12 @@
+.img1{
+    width: 500px;
+    height: 500px;
+    /*filter: blur(90px);*/
+    /*filter: brightness(2);*/
+    /*filter: contrast(150%);*/
+    /*filter: grayscale(1%);*/
+    /*filter: invert(0.8);*/
+    /*filter: sepia(50%);*/
+    /*filter: opacity(0.5);*/
+    filter: drop-shadow(3px 3px 4px black);   /*goood one*/
+}

@@ -1,0 +1,15 @@
+.boxx{
+    border: 2px solid black;
+    width: 500px;
+    height: 480px;
+}
+
+img{
+    width: 490px;
+    height: 460px;
+    /*object-position: center;*/
+    /*object-fit: cover;*/
+    object-fit: fill;
+}
+
+
