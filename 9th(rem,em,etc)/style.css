@@ -1,0 +1,46 @@
+html { 
+    font-size: 14px; /* Base font size */
+} 
+
+.haha { 
+    font-size: 1.2rem;  /* 17px / 14px = 1.2rem */
+    box-sizing: border-box; 
+    border: 10px solid blue; 
+    background-color: black; 
+    color: antiquewhite; 
+    height: auto; 
+    min-height: 50vmin; 
+} 
+
+div.hehe{
+    font-size: 1.2rem;  /* 17px / 14px = 1.2rem */
+    box-sizing: border-box; 
+    border: 10px solid blueviolet; 
+    background-color: rgb(10, 224, 85); 
+    color: rgb(225, 255, 0); 
+    height: auto; 
+    min-height: 50vmin; 
+    max-width: 50vmin;
+}
+
+div > p:nth-child(1) { 
+    font-size: 1.2rem;  /* 17px / 14px = 1.2rem */
+    box-sizing: border-box; 
+    border: 10px solid rgb(12, 235, 93); 
+    background-color: rgb(120, 28, 232); 
+    color: red; 
+    height: auto; 
+    min-height: 50vmin; 
+    max-width: 50vmin; 
+} 
+
+div > p:nth-child(2) { 
+    font-size: 1.2rem;  /* 17px / 14px = 1.2rem */
+    box-sizing: border-box; 
+    border: 10px solid blueviolet; 
+    background-color: rgb(12, 14, 13); 
+    color: red; 
+    height: auto; 
+    min-height: 50vmin; 
+    max-width: 50vmin; 
+} 

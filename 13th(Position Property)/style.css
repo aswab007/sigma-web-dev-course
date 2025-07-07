@@ -1,0 +1,56 @@
+*{
+    margin: 1px;
+    padding: 1px;
+}
+
+.box{
+    width:700px;
+    height: 20vh;
+    border: 2px solid red;
+    margin-bottom: 3px;
+}
+
+.parent{
+    width: 900px;
+    height: 200vh;
+    border: 2px solid blue;
+    padding: 7px;
+    position:relative;
+}
+
+.box1{
+    background-color:antiquewhite ;
+    position: relative;
+    z-index: 2 ;
+}
+
+.box2{
+    background-color:aqua ;
+    position: relative;
+    bottom: 60px;
+    left: 40px;
+    z-index: 1;
+}
+
+.box3{
+    background-color:azure ;
+    position: fixed;
+    bottom: 10px;
+    
+}
+
+.box4{
+    background-color:bisque;
+    position: absolute;
+    top: 0px;
+}
+
+.box5{
+    background-color: black;
+    position: sticky;
+    top: 0px;
+    width: 850px;
+    height: 40px;
+    color: blue;
+
+}

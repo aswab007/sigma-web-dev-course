@@ -1,0 +1,24 @@
+.big {
+  border: 4px solid black;
+  background-color: black;
+  min-width: 95vw;
+  min-height: 40vh;
+}
+
+.box {
+  border: 2px solid rgb(84, 215, 84);
+  background-color: rgb(84, 215, 84);
+  height: 30px;
+  width: 80px;
+  animation: AswabAnimation 1.5s ease-in-out 1s infinite alternate-reverse;
+}
+
+@keyframes AswabAnimation {
+  from {
+    background-color: rgb(84, 215, 84);
+  }
+  to {
+    transform: translateX(94vw);
+    background-color: rgb(173, 226, 12);
+  }
+}

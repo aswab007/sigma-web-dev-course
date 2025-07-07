@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --color: rgb(12, 160, 160);
+    --seccolor:rgb(171, 196, 196);
+    --DefaultPadding:23px;
+}
+
+.li{
+    background-color: aqua;
+    background-color: var(--color);
+}
+
+.lala{
+    display: flex;
+}
+
+ul li{
+    list-style-type: none;
+    padding: var(--DefaultPadding);
+    --color: rgb(31, 208, 208);
+    border: 2px solid  var(--color);
+}
+
+ul li:first-child{
+    --color: rgb(80, 44, 199);
+    background-color: var(--color);
+}
+
+.para{
+    background-color: blueviolet;
+}

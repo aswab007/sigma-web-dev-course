@@ -1,0 +1,44 @@
+<!--<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Text Properties</title> 
+    <style> 
+        /* Text decoration thickness */
+        .thick-underline {
+            text-decoration: underline;
+            text-decoration-thickness: 5px; /* Adjust thickness of underline */
+            text-decoration-color: red; /* Change underline color */
+        }
+
+        /* Text indent */
+        .indented {
+            text-indent: 50px; /* Indents the first line */
+        }
+
+        /* Text overflow */
+        .overflow {
+            width: 200px; /* Set a fixed width */
+            white-space: nowrap; /* Prevent text from wrapping */
+            overflow: hidden; /* Hide overflowing text */
+            text-overflow: ellipsis; /* Show "..." when text is cut off */
+            border: 1px solid black; /* Just to visualize the box */
+            padding: 5px;
+        }
+    </style> 
+</head> 
+<body> 
+    <div class="thick-underline"> 
+        This text has a thick underline.
+    </div> 
+
+    <div class="indented"> 
+        This paragraph has an indented first line.
+    </div> 
+
+    <div class="overflow"> 
+        This text is too long and will be cut off with an ellipsis...
+    </div> 
+</body> 
+</html>  

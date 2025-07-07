@@ -1,0 +1,35 @@
+*{
+    margin: 30px;
+    padding: 5px;
+}
+
+
+.c1 {
+border: 5px solid yellowgreen;
+display:flex inline ;
+justify-content: center;
+margin: 20px;
+padding: 20px;
+width: 100px;
+box-shadow: 3px 5px 2px 1px greenyellow inset;
+
+}
+.c2{
+   border: 5px solid yellowgreen;
+display:flex inline ;
+justify-content: center;
+margin: 20px;
+padding: 20px;
+width: 100px;
+box-shadow: 3px 5px 2px 1px greenyellow ;    
+}
+
+.txt-shdw{
+    text-shadow: 1px 2px 5px greenyellow ;
+    outline: 3px solid yellow ;
+    outline-offset: 8px;
+    border-radius: 40px;
+
+
+}
+

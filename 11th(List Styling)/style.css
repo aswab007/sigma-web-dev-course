@@ -1,0 +1,18 @@
+.lisst li{
+    
+  
+    background-color: aqua;/*put this property here so it is applied to list container only*/
+   /* border: 2px solid blue; */
+    
+    padding: 23px; /*using to set padding btw th list items*/
+    border: 2px solid blue ;
+    border-width: 3px; 
+}
+
+
+.lisst{
+    display: flex;
+    list-style: none;
+    list-style-position: inside;
+       
+}

@@ -1,0 +1,38 @@
+:root{
+    --color:aqua;
+    --sec-color:rgb(255,0,0);
+    --border:black;
+}
+
+.boxx *{
+    background-color: var(--color);
+    color: var(--sec-color);
+    border: 2px solid var(--border);
+    padding: 5px;
+    
+}
+
+.box::selection{
+
+     --color:rgb(5,5,238);
+    --sec-color:rgb(53,242,11);
+
+    background-color: var(--color);
+    color: var(--sec-color);
+}
+
+.box:hover {
+    background-color: rgb(57, 116, 160);
+}
+
+.boxx :nth-child(4)::first-line{
+    color: blueviolet;
+}
+
+input::placeholder{
+    color:rgb(85, 50, 8);
+}
+
+input:focus{
+    background-color: black;
+}

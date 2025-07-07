@@ -1,0 +1,38 @@
+.MainBox{
+    background-color: rgb(199, 194, 194);
+    width: 40vw;
+    height: 65vh;
+    border-radius: 9px;
+}
+
+.PicBox img{
+    margin: 6px;
+    width: 38vw;
+    height: 30vh;
+    border-radius: 6px;
+
+}
+
+.b1{
+    margin-left: 7px;
+    border-radius: 60px;
+    background-color: rgb(212, 178, 206);
+    
+}
+
+.heading{
+    margin: 8px;
+    margin-top: 11px;
+}
+
+.para{
+    margin: 8px;
+}
+
+.b3{
+    justify-content: center;
+    margin: 20px;
+    margin-left: 75px;
+    border-radius: 9px;
+     background-color: rgb(212, 178, 206)
+}

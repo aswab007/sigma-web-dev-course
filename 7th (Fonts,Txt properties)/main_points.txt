@@ -1,0 +1,13 @@
+font_family
+font-style 
+font-weight
+
+line height
+
+text-transform
+text-decoration
+text-decoration-color
+text-decoration-style
+text-decoration-thickness
+text-indent
+text-overflow

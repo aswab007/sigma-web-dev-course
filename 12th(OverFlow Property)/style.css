@@ -1,0 +1,15 @@
+.d1 {
+    border: 2px solid blue;
+    width: 30vw;
+    height: 30vh;
+    overflow: auto;
+    margin-bottom: 10px;
+}
+
+.d2{
+    width: 30vw;
+    height: 30vh;
+    border: 2px solid yellowgreen;
+    overflow: scroll;
+}
+
