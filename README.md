@@ -49,7 +49,7 @@ Each folder represents a specific topic or exercise from the course:
 
 ## 🤝 Acknowledgement
 
-Inspired by the amazing [Sigma Web Dev Course](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w).  
+Inspired by the amazing [Sigma Web Dev Course](https://www.youtube.com/@CodeWithHarry).  
 Every folder is a step forward in my journey to becoming a front-end developer.
 
 ---
