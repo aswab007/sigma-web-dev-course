@@ -33,6 +33,11 @@ Each folder represents a specific topic or exercise from the course:
 | `28th(Exrcise8)` | Final CSS Challenges |
 | `29th(Object-Fit & Object-Cover)` | Image Sizing |
 | `30th(Filters)` | Blur, Brightness, Shadow |
+| `31st(JS Variables)` | JS Variables & Objects |
+| `32nd(Conditionals+Loops)` | Loops |
+| `33rd(JS Functions)` | JS Functions |
+| `34th(Exercise9)` | Faulty Calculator |
+| `35th(Exercise10)` | Business Name Generator |
 | `test/` | Testing or playground files |
 
 ---
