@@ -15,7 +15,7 @@ for (let i = 0; i < bex.length; i++) {
 
 for (let i = 0; i < bex.length; i++) {
     if(i%2!=0){
-    bex[i].style.backgroundColor="blue"  
+    bex[i].style.backgroundColor="pink"  
     }  
 }
 
