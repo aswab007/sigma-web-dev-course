@@ -32,6 +32,9 @@ let colorss = {
   ]
 };
 
+
+
+
 let boxes=document.querySelectorAll(".boxx")
 
 boxes.forEach(e => {
