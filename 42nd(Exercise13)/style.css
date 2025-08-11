@@ -1,0 +1,48 @@
+.card {
+  display: flex;
+}
+
+.container {
+  border: 2px solid black;
+  border-radius: 14px;
+  background-color: rgb(34, 32, 32);
+}
+
+.image {
+  position: relative;
+}
+
+.image img {
+  border-radius: 11px;
+  margin-top: 3px;
+  margin-left: 2px;
+  margin-right: 6px;
+  height: 135px;
+  width: 200px;
+}
+
+.text h3 {
+  color: white;
+  position: relative;
+  top: -10px;
+}
+
+.text p {
+  color: rgb(214, 208, 208);
+  font-size: small;
+  position: relative;
+  top: -6px;
+}
+
+.capsule {
+  border: transparent;
+  border-radius: 6px;
+  color: white;
+  background-color: rgb(122, 116, 116);
+  width: 52px;
+  position: absolute;
+  bottom: 8px;
+  z-index: 10;
+  right: 8px;
+  opacity: 0.9;
+}
