@@ -26,7 +26,7 @@ let colorss = {
     "pink", "plum", "powderblue", "purple", "rebeccapurple", "red",
     "rosybrown", "royalblue", "saddlebrown", "salmon", "sandybrown",
     "seagreen", "seashell", "sienna", "silver", "skyblue", "slateblue",
-    "slategray", "snow", "springgreen", "steelblue", "tan", "teal",
+    "slategray", "snow", "springgreen", "steelblue", "tan",
     "thistle", "tomato", "turquoise", "violet", "wheat", "white",
     "whitesmoke", "yellow", "yellowgreen"
   ]
