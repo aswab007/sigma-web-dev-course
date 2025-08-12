@@ -1,0 +1,24 @@
+.container{
+    background-color: rgb(100, 160, 212);
+    padding: 10px;
+    cursor: pointer;
+}
+
+.childcontainer{
+    background-color: #00ffff;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.child{
+    background-color:beige;
+    padding:10px;
+    cursor: pointer;
+}
+
+.btn{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
