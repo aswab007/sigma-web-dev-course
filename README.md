@@ -1,4 +1,3 @@
-Here’s the full text of your README without the `cat > README.md` shell command wrapper so it’s just plain Markdown:
 
 ---
 
